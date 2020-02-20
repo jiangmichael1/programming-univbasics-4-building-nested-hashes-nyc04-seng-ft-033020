@@ -1,6 +1,6 @@
 def base_hash
 	monopoly = {
-	  pieces: 4
+	  railroads: 4
 	}
 end
 
