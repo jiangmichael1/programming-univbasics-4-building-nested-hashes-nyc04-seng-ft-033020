@@ -23,7 +23,7 @@ def monopoly_with_third_tier
 	      fourth: {}
 	    },
 	    rent_in_dollars: {
-	      one:{},
+	      one_piece_owned: 25,
 	      two:{},
 	      three:{},
 	      four:{}
